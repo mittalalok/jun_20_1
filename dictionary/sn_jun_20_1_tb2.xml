@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="tb2" max_length="40" name="sn_jun_20_1_tb2" type="collection">
+    <element label="tb211" max_length="40" name="sn_jun_20_1_tb2" type="collection">
         <element label="Tb2 col1" max_length="10" name="tb2_col1" type="string"/>
         <element label="Tb2 col2" max_length="200" name="tb2_col2" type="string"/>
         <element label="tb2 col3" max_length="15" name="tb2_col3" type="string"/>
